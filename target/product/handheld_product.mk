@@ -30,7 +30,7 @@ PRODUCT_PACKAGES += \
     LatinIME \
     OneTimeInitializer \
     preinstalled-packages-platform-handheld-product.xml \
-    SettingsIntelligenceAOSP \
+    SettingsIntelligence \
     frameworks-base-overlays
 
 PRODUCT_PACKAGES_DEBUG += \
